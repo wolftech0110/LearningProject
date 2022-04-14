@@ -1,6 +1,7 @@
 ---
 Tags: Python
 ---
+[README](README)
 # Learning Python Journal
 
 
@@ -15,5 +16,5 @@ Tags: Python
 - I Created a basic Hello World Python Script with a print statement and an IF:ELSE  statement
 - next steps are to review videos and basic scripts I have already written
 - Need  to use an App like Draw.IO to make a Flow chart to help design the logic of the application you want to create
-- use comments to create psuedocode
+- use comments to create pseudocode
 - 

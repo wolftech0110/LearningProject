@@ -1,6 +1,7 @@
 ---
 Tag: HomeLab
 ---
+[README](README)
 
 ---
 

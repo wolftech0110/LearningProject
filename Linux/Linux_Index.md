@@ -2,7 +2,7 @@
 Tags: Linux
 ---
 
-[[Learn365]]
+[README](README)
 
 ---
 
