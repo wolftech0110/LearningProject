@@ -2,7 +2,7 @@
 Tags: Linux
 ---
 
-[README](../README)
+[README](../README.md)
 
 ---
 

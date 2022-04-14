@@ -1,7 +1,7 @@
 ---
 Tag: HomeLab
 ---
-[README](../README)
+[README](../README.md)
 
 ---
 

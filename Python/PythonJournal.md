@@ -1,7 +1,7 @@
 ---
 Tags: Python
 ---
-[README](../README)
+[README](../README.md)
 # Learning Python Journal
 
 
