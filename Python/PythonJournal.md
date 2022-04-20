@@ -17,4 +17,18 @@ Tags: Python
 - next steps are to review videos and basic scripts I have already written
 - Need  to use an App like Draw.IO to make a Flow chart to help design the logic of the application you want to create
 - use comments to create pseudocode
-- 
+
+## Topics to Learn
+- Variables
+- Data Types
+	- int
+	- float
+	- string
+	- list
+	- dictionary
+- Program Flow Control
+- Modules
+- Classes
+- API's
+
+
