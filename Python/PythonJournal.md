@@ -21,6 +21,7 @@ Tags: Python
 ## Topics to Learn
 - Variables
 - Data Types
+	- Boolean
 	- int
 	- float
 	- string
