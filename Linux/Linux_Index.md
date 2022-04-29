@@ -30,8 +30,13 @@ esac
 ```
  sudo dpkg -i package_file.deb
 ```
--  mounting a drive
+-  mounting a network drive
 ```
 sudo mount  //X.X.X.X/MyStuff2021 /home/useer/folder -o username=user,file_mode=0777,dir_mode=0777
 
+```
+- Mount an USB drive
+```
+mkdir /mnt/e
+sudo mount -t drvfs e: /mnt/e
 ```

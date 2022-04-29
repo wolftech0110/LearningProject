@@ -6,5 +6,5 @@ I have Setup an Individual Folder for each topic I am studying and will add note
 
 [Python](./Python/PythonJournal.md)
 [HomeLab](./HomeLab/HomeLab.md)
-[Linux](./Linux/Linux.md)
+[Linux](./Linux/Linux_Index.md)
 [Security Plus](./SecurityPlus/SecurityPlus.md)
