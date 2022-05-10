@@ -6,7 +6,7 @@ Tag: Hacking
 ---
 
 ## Try Hack Me
-- [ ] 
+- [ ] Currently going through Burp Suite room, need to take more notes
 
 
 

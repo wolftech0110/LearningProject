@@ -7,9 +7,10 @@ Tags: Linux
 ---
 
 - Configure Bash Shell to have shortened path name. This can be done by editing the .bashrc file  
-- #TODO refine this content
+- #todo refine this content
 ```
 #edit similiar line below with this content.
+#change the small w to a large W to make command line cleaner looking
 if [ "$color_prompt" = yes ]; then
     PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
 else
@@ -26,7 +27,7 @@ xterm*|rxvt*)
     ;;
 esac
 ```
-- How to install debian files manually
+- How to install Debian files manually
 ```
  sudo dpkg -i package_file.deb
 ```
@@ -40,3 +41,6 @@ sudo mount  //X.X.X.X/MyStuff2021 /home/useer/folder -o username=user,file_mode=
 mkdir /mnt/e
 sudo mount -t drvfs e: /mnt/e
 ```
+
+- Look into using ssh-keygen to make logging into remote systems easier
+- journalctl for reading log files, look into this command and usage 

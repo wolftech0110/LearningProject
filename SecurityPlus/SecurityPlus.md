@@ -20,5 +20,12 @@ Tag:SecurityPlus
 - Domain 2
 	- Need to learn about Symmetric and Asymmetric Encryption
 - Domain 3
+	- Cloud Security
+	- PAP and CHAP
+	- PKI
 - Domain 4
+	- SIEM
+	- Log Management
+	- Forensic Tools
 - Domain 5
+	- Data Retention Policies
