@@ -6,5 +6,7 @@ Tags: SecPlusDomain2
 
 ---
 
-
-
+Diffie–Hellman
+Hashing
+rainbow table- table of variances of a word match hashes
+avoided by using salting
