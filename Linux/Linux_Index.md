@@ -45,4 +45,4 @@ sudo mount -t drvfs e: /mnt/e
 - Look into using ssh-keygen to make logging into remote systems easier
 - journalctl for reading log files, look into this command and usage 
 - in order to make an alias permanent store it in the .bashrc and re-source the file    alias  newcommand=oldcommand
-- 
+- sed 's/ /:: /' test.txt > test1.txt  replace the first space with :: and output to another text file

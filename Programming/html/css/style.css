@@ -1,0 +1,26 @@
+
+/*This is a css comment */
+/*CSS is read from top to bottom*/
+
+p{
+    color: blue;
+}
+
+
+section   p {
+    color: rgb(255, 111, 67);
+}
+section > p {
+    color: rebeccapurple;
+}
+section article  p {
+    color: seagreen;
+}
+p + p {
+    color: rgb(255, 131, 245);
+}
+p{
+    color: rgb(122, 233, 31);
+    font-weight: bold;
+    font-family:  Helvetica, sans-serif;
+}

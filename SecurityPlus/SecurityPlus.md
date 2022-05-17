@@ -31,3 +31,7 @@ Tag:SecurityPlus
 	- Forensic Tools
 - [Domain 5 - Governance, Risk, and Compliance](<./Domain 5 - Governance, Risk, and Compliance.md>)
 	- Data Retention Policies
+
+[SecurityPlusFlashCards](./SecurityPlusFlashCards.md)
+
+---
