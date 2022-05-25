@@ -35,3 +35,6 @@ Tag:SecurityPlus
 [SecurityPlusFlashCards](./SecurityPlusFlashCards.md)
 
 ---
+- The single loss expectancy (SLE) is the amount that would be lost in a single occurrence (AV) times the risk factor (RF). The annual loss expectancy (ALE) is the total cost of a risk to an organization on an annual basis. This is determined by multiplying the SLE by the annual rate of occurrence (ARO).
+
+
