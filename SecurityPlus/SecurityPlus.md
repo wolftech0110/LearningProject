@@ -16,25 +16,30 @@ Tag:SecurityPlus
 
 
 ## Things to Study
-- [Domain 1 - Threats, Attacks, and Vulnerabilities](<./Domain 1 - Threats, Attacks, and Vulnerabilities.md>)
-	- Watching Professor Messer Videos
-	- need to look into unfamiliar terms
-- [Domain - 2 Architecture and Design](<./Domain 2 - Architecture and Design.md>)
-	- Need to learn about Symmetric and Asymmetric Encryption
-- [Domain 3 - Implementation](<./Domain 3 - Implementation.md>)
-	- Cloud Security
-	- PAP and CHAP
-	- PKI
-- [Domain 4 - Operations and Incident Response](<./Domain 4 - Operations and Incident Response.md>)
-	- SIEM
-	- Log Management
-	- Forensic Tools
-- [Domain 5 - Governance, Risk, and Compliance](<./Domain 5 - Governance, Risk, and Compliance.md>)
-	- Data Retention Policies
+#### Domain 1 - Threats, Attacks, and Vulnerabilities
+- Watching Professor Messer Videos
+- need to look into unfamiliar terms
+#### Domain - 2 Architecture and Design
+- Need to learn about Symmetric and Asymmetric Encryption
+- Diffie–Hellman
+- Hashing
+- rainbow table- table of variances of a word match hashes avoided by using salting
+#### Domain 3 - Implementation
+- Cloud Security
+- PAP and CHAP
+- PKI
+#### Domain 4 - Operations and Incident Response
+- SIEM
+- Log Management
+- Forensic Tools
+#### Domain 5 - Governance, Risk, and Compliance
+- Data Retention Policies
 
 [SecurityPlusFlashCards](./SecurityPlusFlashCards.md)
 
 [Things To Study More](./ThingsToStudyMore.md)
+
+[Visual Study Notes](./VisualStudyNotes.md)
 
 ---
 

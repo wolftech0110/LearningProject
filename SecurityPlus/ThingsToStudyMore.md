@@ -11,15 +11,19 @@ Tags: ThingsToStudyMore
 ## Symmetric Algorithms
 - AES
 - RC4
+- RC5
+- RC6
 - 3DES
 - DES
+- Blowfish
 - twofish
+- IDEA
 
 ## Asymmetric Algorithms
-- PGP
-- ECC
-- GPG
+- PGP??
+- GPG??
 - DSA
+- ECC
 - RSA
 - Diffie-Helman
 
