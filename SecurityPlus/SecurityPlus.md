@@ -16,6 +16,22 @@ Tag:SecurityPlus
 
 
 ## Things to Study
+- need to look into unfamiliar terms
+- Need to learn about Symmetric and Asymmetric Encryption
+- Hashing
+	- Diffie–Hellman
+- rainbow table- table of variances of a word match hashes avoided by using salting
+- Cloud Security
+- PAP and CHAP
+- PKI
+- SIEM
+- Log Management
+- Forensic Tools
+- Data Retention Policies
+
+[SecurityPlusFlashCards](./SecurityPlusFlashCards.md)
+
+[Things To Study More](./ThingsToStudyMore.md)
 #### Domain 1 - Threats, Attacks, and Vulnerabilities
 - Watching Professor Messer Videos
 - need to look into unfamiliar terms
