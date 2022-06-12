@@ -25,7 +25,7 @@ Tag:SecurityPlus
 
 [Interesting Things to look into](./InterstingThingstoLookInto.md)
 
-[[Other Security Plus Notes]]
+[Other Security Plus Notes](<./Other Security Plus Notes.md>)
 
 ---
 
