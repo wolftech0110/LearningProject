@@ -14,3 +14,14 @@ Tags: VisualStudyNotes
 
 ![[Pasted image 20220605140046.png]]
 
+![[Pasted image 20220611115402.png]]
+
+
+![[Pasted image 20220612172408.png]]
+
+![[Pasted image 20220612172953.png]]
+
+
+![[Pasted image 20220612173443.png]]
+
+![[Pasted image 20220612173807.png]]
