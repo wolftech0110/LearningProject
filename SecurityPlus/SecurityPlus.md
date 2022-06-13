@@ -21,8 +21,6 @@ Tag:SecurityPlus
 
 [Things To Study More](./ThingsToStudyMore.md)
 
-[Visual Study Notes](./VisualStudyNotes.md)
-
 [Interesting Things to look into](./InterstingThingstoLookInto.md)
 
 [Other Security Plus Notes](<./Other Security Plus Notes.md>)
