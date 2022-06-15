@@ -6,9 +6,8 @@ Tag: Hacking
 ---
 
 ## Try Hack Me
-- [ ] Currently going through Burp Suite room, need to take more notes
 
-[TryHackMe Rooms](./TryHackMeRooms)
+[TryHackMe Rooms](./TryHackMeRooms.md)
 
 ## Started PNPT Course
 - [Cyber Mentor PNPT Course](https://academy.tcm-sec.com/courses/pnpt-live/lectures/41003723)
@@ -21,5 +20,7 @@ Tag: Hacking
 
 ## Vulnerable VMs and Sites to practice on
 
--[Juice Shop](https://github.com/juice-shop/juice-shop) a vulnerable site you can practice vulnerabilities from the OWASP top 10 and many other security flaws
--
+- [Juice Shop](https://github.com/juice-shop/juice-shop) a vulnerable site you can practice vulnerabilities from the OWASP top 10 and many other security flaws
+
+
+
