@@ -20,7 +20,7 @@ date: 06-12-2022
 	-   Rogue hardware
 	-   Service disruption and defacement
 	-   Suspicious or unauthorized account usage
-- ![[Pasted image 20220611130115.png]]
+
 -   fireELF—injecting fileless exploit payloads into a Linux host ([github.com/rek7/fireELF](https://github.com/rek7/fireELF)).
 -   RouterSploit—Vulnerability scanning and exploit modules targeting embedded systems ([github.com/threat9/routersploit](https://github.com/threat9/routersploit)).
 -   Browser Exploitation Framework (Beef)—recovering web session information and exploiting client-side scripting ([beefproject.com](https://beefproject.com/)).

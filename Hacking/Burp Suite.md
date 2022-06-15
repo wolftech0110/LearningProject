@@ -2,7 +2,7 @@
 Tags: BurpSuite
 ---
 
-[[Hacking]]
+[Hacking](./Hacking.md)
 
 ---
 
