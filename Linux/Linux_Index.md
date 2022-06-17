@@ -6,8 +6,18 @@ Tags: Linux
 
 ---
 
+- change user and password for a kali distribution
+```
+passwd
+
+usermod -l newusername oldusername
+
+```
+
 - Configure Bash Shell to have shortened path name. This can be done by editing the .bashrc file  
 - #todo refine this content
+
+
 ```
 #edit similiar line below with this content.
 #change the small w to a large W to make command line cleaner looking

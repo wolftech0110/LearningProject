@@ -22,5 +22,6 @@ Tag: Hacking
 
 - [Juice Shop](https://github.com/juice-shop/juice-shop) a vulnerable site you can practice vulnerabilities from the OWASP top 10 and many other security flaws
 
-
+## General Hacking Notes
+- Pay attention to the rules of engagement for  any pen-testing or bug bounty client
 

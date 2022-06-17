@@ -21,3 +21,6 @@ unsetg RHOST 192.168.1.1
 exploit
 ```
 
+## Commands and payloads used
+- used tcp/portscanner in order to find ports open on an remote host machine
+- learned that i could also use NMAP at the Metasploit command line as well
