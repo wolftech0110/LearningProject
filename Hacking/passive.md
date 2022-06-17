@@ -22,4 +22,5 @@ date: 06-16-2022
 	- HaveIBeenPwned,Breach-parse,weleakinfo
 
 ## Discovering Email Addresses
--
+-Discovering Email address- hunter.io , phonbook.cz , voilanorberrt.com , chrome based extension Clearbit connect
+- verify email at email hippo, email-checker.net/validate
