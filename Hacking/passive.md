@@ -20,7 +20,19 @@ date: 06-16-2022
 	- nmap,wappalyzer,whatweb,builtwith,netcat
 - Data Breaches
 	- HaveIBeenPwned,Breach-parse,weleakinfo
-
+- web information gathering
+	- BurpSuite
 ## Discovering Email Addresses
 -Discovering Email address- hunter.io , phonbook.cz , voilanorberrt.com , chrome based extension Clearbit connect
 - verify email at email hippo, email-checker.net/validate
+## Discovering Subdomains
+- harvester
+- sublist3r
+- crt.sh  - registered certificates
+- owasp amass
+- tomnomnom httpprobe
+
+## Identifying web technologies
+- wappalyzer
+- builtwith
+- whatweb
