@@ -19,7 +19,7 @@ date: 06-14-2022
 ### 5 Stages of ethical hacking
 1. Reconnaissance
 	- active versus [passive](./passive.md) recon
-2. scanning and enumeration
+2. [scanning and enumeration](./ScanningAndEnumeration)
 3. gaining access (exploitation)
 4. maintaining access
 5. cover tracks

@@ -36,3 +36,9 @@ date: 06-16-2022
 - wappalyzer
 - builtwith
 - whatweb
+
+## Other Information Gathering 
+- Information Gathering with Burp Suite
+- information gathering with google.com
+	- site:site.com
+	- filetype:pdf
