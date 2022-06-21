@@ -1,5 +1,5 @@
 ---
-Tags: 
+Tags: TryHackMeRooms
 date: 06-14-2022
 ---
 
@@ -7,5 +7,6 @@ date: 06-14-2022
 
 ---
 
- [Upload Vulnerabilities Room](./UploadVulnerabilitiesRoom.md)
+[Upload Vulnerabilities Room](./UploadVulnerabilitiesRoom.md)
+[MetaSploit Exploitation](./MetaSploitExploitation.md)
 
