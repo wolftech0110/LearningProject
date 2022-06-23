@@ -56,3 +56,20 @@ sudo mount -t drvfs e: /mnt/e
 - journalctl for reading log files, look into this command and usage 
 - in order to make an alias permanent store it in the .bashrc and re-source the file    alias  newcommand=oldcommand
 - sed 's/ /:: /' test.txt > test1.txt  replace the first space with :: and output to another text file
+- How to use Grep
+```
+grep 'word' filename
+ 
+# Interpret PATTERNS as fixed strings, not regular expressions (regex) when fgrep used.
+fgrep 'word-to-search' file.txt
+grep -F 'pattern' filename # same as frgrep 
+ 
+grep 'word' file1 file2 file3
+grep 'string1 string2'  filename
+cat otherfile | grep 'something'
+command | grep 'something'
+command option1 | grep 'data'
+grep --color 'data' fileName
+grep [-options] pattern filename
+fgrep [-options] words file
+```

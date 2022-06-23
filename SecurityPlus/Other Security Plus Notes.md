@@ -1,5 +1,5 @@
 ---
-Tags: OtheSecurityPlusNotes
+Tags: OtherSecurityPlusNotes
 date: 06-12-2022
 ---
 
