@@ -73,3 +73,6 @@ grep --color 'data' fileName
 grep [-options] pattern filename
 fgrep [-options] words file
 ```
+
+### Quick Tips
+- Learned to add users as well as about the sudoers group, just need to look up commands and write notes.
