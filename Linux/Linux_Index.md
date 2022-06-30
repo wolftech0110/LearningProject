@@ -50,6 +50,10 @@ sudo mount  //X.X.X.X/MyStuff2021 /home/useer/folder -o username=user,file_mode=
 ```
 mkdir /mnt/e
 sudo mount -t drvfs e: /mnt/e
+// to manually mount a drive
+search using 
+sudo fdisk -l
+sudo mount /dev/sdd1 /mnt/j
 ```
 
 - Look into using ssh-keygen to make logging into remote systems easier
