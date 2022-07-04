@@ -80,3 +80,7 @@ fgrep [-options] words file
 
 ### Quick Tips
 - Learned to add users as well as about the sudoers group, just need to look up commands and write notes.
+- this command recursively compares directories
+```
+diff -qr dir1/ dir2/
+```
