@@ -11,4 +11,5 @@ date: 06-14-2022
 [Upload Vulnerabilities Room](./UploadVulnerabilitiesRoom.md)
 [MetaSploit Exploitation](./MetaSploitExploitation.md)
 [MetaSploit Meterpreter](./MetaSploitMeterpreter.md)
-[[OWASP_JuiceShop]]
+[OWASP_JuiceShop](./OWASP_JuiceShop.md)
+[WhatTheShell](./WhatTheShell.md)
